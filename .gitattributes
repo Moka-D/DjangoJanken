@@ -1,0 +1,7 @@
+#
+*       text=auto
+
+*.txt   text
+*.sh    text eol=lf
+*.jpg   -text
+*.png   -text
